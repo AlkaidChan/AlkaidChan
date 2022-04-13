@@ -1,7 +1,7 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open Source :fire:	
--  **Languages :** Golang, Java, HTML, JavaScript
+-  **Languages :** Golang, Java, JavaScript
 -  **Organization :** @Tencent
 -  **Blog :** [alkaidchen.com](http://alkaidchen.com) :link:
 
