@@ -3,6 +3,7 @@
 -  **Learning :** Full-Stack Development :zap: | Open Source :fire:	
 -  **Languages :** Golang, Java, HTML, JavaScript
 -  **Organization :** @Tencent
+-  **Blog :** alkaidchen.com
 
 I'm currently working on [BK-BCS](https://github.com/Tencent/bk-bcs):sparkles:.
 
