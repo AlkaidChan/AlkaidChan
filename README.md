@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🐧 BackEnd Engineer at [Tencent](https://github.com/Tencent)
-- 🐋 I'm currently working on [BK-BCS](https://github.com/Tencent/bk-bcs) [BK-BSCP](https://github.com/TencentBlueKing/bk-bcs/tree/master/bcs-services/bcs-bscp)
+- 🐋 I'm currently working on [BK-BCS](https://github.com/Tencent/bk-bcs) [BK-BSCP](https://github.com/Tencent/bk-bscp)
 - 🔗 My Blog [alkaidchen.com](http://alkaidchen.com)
 - 📫 How to reach me: 362774405@qq.com
 - 📊 Visitor : <img src="https://profile-counter.glitch.me/AlkaidChan/count.svg" width="140"/>
